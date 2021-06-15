@@ -1,0 +1,12 @@
+.formContainer {
+    display: flex;
+}
+
+.searchInput {
+    flex: 1;
+    height: 40px;
+}
+
+.searchButton {
+
+}

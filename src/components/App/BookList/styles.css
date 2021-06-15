@@ -1,0 +1,11 @@
+.bookList {
+    margin-top: 15px;
+}
+
+.bookItem {
+    padding: 10px 0;
+}
+
+.borderBottom {
+    border-bottom: 1px solid #aaa;
+}
